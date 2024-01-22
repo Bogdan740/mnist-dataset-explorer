@@ -35,7 +35,7 @@
     <p>
       <a
         target="_blank"
-        href="https://github.com/ibraheemr/wehadtostartsomewhere">Source Code</a
+        href="https://github.com/Bogdan740/mnist-dataset-explorer">Source Code</a
       >
     </p>
     <h3>Credits</h3>
