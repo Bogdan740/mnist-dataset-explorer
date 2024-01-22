@@ -1,6 +1,6 @@
 # We had to start somewhere
 
-[https://mnist.ibraheemrodrigues.com](https://mnist.ibraheemrodrigues.com)
+[https://mnist-explorer-bogdancuciureanu.netlify.app/](https://mnist-explorer-bogdancuciureanu.netlify.app/)
 
 ## An AI visulisation project built to explore working in a team.
 
