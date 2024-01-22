@@ -4,8 +4,7 @@
 
 ## An AI visulisation project built to explore working in a team.
 
+Bogdan Cuciureanu  
 Ibraheem Rodrigues  
 Aryenne Oliveros  
-Bogdan Cuciureanu  
 Hamzah Qureshi
-# mnist-dataset-explorer
